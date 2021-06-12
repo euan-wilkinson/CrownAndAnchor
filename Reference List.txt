@@ -1,0 +1,19 @@
+CODE REFERENCE LIST
+
+-- NOTE --
+While most of this program was written by me, Euan Wilkinson (SID: S5083285), I have used two classes which were not my own. This
+file will cite the sources of those classes in the recommended Harvard style. 
+
+-- REFERENCES: -- 
+BackgroundPanel.java	 	
+BY:			Camick, Rob
+WRITTEN:	12th of October, 2008
+ACCESSED:	ca. March 2018
+URL: 		https://tips4java.wordpress.com/2008/10/12/background-panel/
+
+
+DocFilter.java	
+BY:			StackOverflow User 'Hovercraft Full Of Eels'
+WRITTEN:	19th of June, 2012
+ACCESSED:	ca. March 2018
+URL:		https://stackoverflow.com/questions/11093326/restricting-jtextfield-input-to-integers
